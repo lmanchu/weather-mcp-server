@@ -1,0 +1,35 @@
+{
+  "name": "@irisgo/weather-mcp-server",
+  "version": "1.0.0",
+  "description": "Sample MCP Server for weather queries - Reference implementation for ASUS and OEM partners",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node --watch index.js",
+    "test": "node examples/client-example.js"
+  },
+  "keywords": [
+    "mcp",
+    "model-context-protocol",
+    "weather",
+    "irisgo",
+    "ai-pc",
+    "sample",
+    "reference"
+  ],
+  "author": "IrisGo.AI",
+  "license": "MIT",
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^0.5.0",
+    "node-fetch": "^3.3.2",
+    "dotenv": "^16.4.5"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/irisgo-ai/weather-mcp-server"
+  }
+}
