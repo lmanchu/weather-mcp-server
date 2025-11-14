@@ -8,6 +8,10 @@
 [![Node.js Version](https://img.shields.io/badge/node-%3E%3D18.0.0-brightgreen)](https://nodejs.org/)
 [![MCP SDK](https://img.shields.io/badge/MCP%20SDK-0.5.0-blue)](https://github.com/modelcontextprotocol)
 
+<a href="https://glama.ai/mcp/servers/@lmanchu/weather-mcp-server">
+  <img width="380" height="200" src="https://glama.ai/mcp/servers/@lmanchu/weather-mcp-server/badge" alt="Weather Server MCP server" />
+</a>
+
 ---
 
 ## 🎯 Purpose
